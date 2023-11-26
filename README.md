@@ -5,4 +5,6 @@ I call it FDNet(fast demoire network), which has less than 1/3 params and 1/2 ru
 
 However, I won't open the code until the paper is pubished, maybe never, because it's too simple to be judged useless.
 
-Hope you have more significant results.
+I write this to record what I have done on AI, although it's a so small contribution.
+
+Thanks for reading so boring words. Hope you have more significant contributions.
